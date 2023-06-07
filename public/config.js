@@ -1,0 +1,2 @@
+window.ApiUrl = ''
+window.UrlPrefix = ''
